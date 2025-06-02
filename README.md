@@ -1,0 +1,1 @@
+# js-like-script
